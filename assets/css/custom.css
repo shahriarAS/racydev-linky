@@ -1,0 +1,18 @@
+.pro-overlay {
+  opacity: 0.6;
+  pointer-events: none;
+}
+
+.racydev_linky-pro-div::after {
+  position: absolute;
+  top: 8%;
+  left: 60%;
+  transform: translate(-50%, -50%);
+  width: 60%;
+  text-align: center;
+  padding: 10px;
+  background-color: rgba(0, 0, 0, 0.716);
+  content: "PRO Features. Please Buy from 'Enable Pro' option.";
+  color: red;
+  font-size: 1.21rem;
+}
