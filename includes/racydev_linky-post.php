@@ -30,7 +30,7 @@ class RacyDevLinky_PostShortcode{
         $options = get_option("racydev_linky_options");
 
         return '
-        <a href="'.esc_url($options["page_url"]).'?link=" id="d_btn_post">
+        <a href="'.esc_url($options["page_url"]).'?racydevEncrypt=" id="d_btn_post">
         <button class="btn">
         <i class="fa fa-download"></i> '.esc_attr($title).'
         </button>

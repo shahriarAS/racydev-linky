@@ -35,7 +35,7 @@ class RacyDevLinky_PageShortcode{
         </a>
         </div>
         <script>
-        var secretLink   = "'.esc_url($_GET["link"]).'";
+        var secretLink   = "'.esc_attr($_GET["racydevEncrypt"]).'";
 var timeleft = '.esc_attr($racydev_linky_options["waiting_time"]).';
 var waitingTimer = setInterval(function(){
   if(timeleft <= 0){

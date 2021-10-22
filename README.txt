@@ -5,7 +5,7 @@ Tags: download, link, adsense, ad, monetize, download manager, link generate, wp
 Requires at least: 3.0.1
 Tested up to: 5.8.1
 Requires PHP: 7.0
-Stable tag: 1.0.1
+Stable tag: 1.2.1
 License: GPLv2 or later
 
 The most effective link monetized wp plugin. Put ad as much as you want, set a timer before the link is revealed. Generate revenue more than anytime.
@@ -84,7 +84,11 @@ Yes, you will get a ** Customize** tab where you can customize everything also a
 3. RacyDev Linky Analytics Setting Page ( Premium )
 
 == Changelog ==
-= 1.0.1 =
+= 1.2.1 =
+* Fixed Bugs
+= 1.2 =
+* Fixed Layout Style Ovewrite
+= 1.1 =
 * Type Fixed
-= 1.0.0 =
+= 1.0 =
 * Initial plugin release
