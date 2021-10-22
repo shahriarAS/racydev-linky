@@ -1,7 +1,7 @@
 <div class="wrap racydev_linky">
-<section class="w-full p-6 mx-auto bg-gray-800 rounded-md shadow-md dark:bg-gray-800 m-0">
-    <h1 class="text-xl font-bold text-white capitalize dark:text-white">RacyDev Linky Premium</h1>
-    <div class="text-white mt-4 text-sm">
+<section class="racydev_linky-w-full racydev_linky-p-6 racydev_linky-mx-auto racydev_linky-bg-gray-800 racydev_linky-rounded-md racydev_linky-shadow-md dark:racydev_linky-bg-gray-800 racydev_linky-m-0 racydev_link-div">
+    <h1 class="racydev_linky-text-xl racydev_linky-font-bold racydev_linky-text-white racydev_linky-capitalize dark:racydev_linky-text-white">RacyDev Linky Premium</h1>
+    <div class="racydev_linky-text-white racydev_linky-mt-4 racydev_linky-text-sm">
     <ul>
     <li>⭐ You can fully customize the download button.</li>
     <li>⭐ Custom CSS support for your own style.</li>
@@ -14,7 +14,7 @@
     <li>⭐ Premium support</li>
     </ul>
     <a target="_blank" href="https://racydev.com/plugins/racydev-linky">
-    <button class="mt-4 p-2 pl-5 pr-5 bg-green-500 text-gray-100 text-lg rounded-lg focus:border-4 border-green-300 hover:bg-green-400 transition">Get Pro Version</button>
+    <button class="racydev_linky-mt-4 racydev_linky-p-2 racydev_linky-pl-5 racydev_linky-pr-5 racydev_linky-bg-green-500 racydev_linky-text-gray-100 racydev_linky-text-lg racydev_linky-rounded-lg focus:racydev_linky-border-4 racydev_linky-border-green-300 hover:racydev_linky-bg-green-400 racydev_linky-transition">Get Pro Version</button>
     </a>
     </div>
 </section>

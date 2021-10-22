@@ -16,3 +16,11 @@
   color: red;
   font-size: 1.21rem;
 }
+
+.racydev_link-div{
+  box-sizing: border-box;
+}
+
+button{
+  cursor: pointer;
+}
