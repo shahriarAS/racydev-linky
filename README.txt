@@ -5,7 +5,7 @@ Tags: download, link, adsense, ad, monetize, download manager, link generate, wp
 Requires at least: 3.0.1
 Tested up to: 5.8.1
 Requires PHP: 7.0
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 
 The most effective link monetized wp plugin. Put ad as much as you want, set a timer before the link is revealed. Generate revenue more than anytime.
@@ -32,7 +32,7 @@ Because of high security, no one can get the original URL without waiting for th
 
 **Step-4:** Now go to **RacyDev Linky Options** and paste the copied page URL in the **Page Link** field.
 
-**Step-5:** Optionally you can change the **Waiting Time** field to any time you like. also, you can change the button text by changing the **Page's Button Title** field.
+**Step-5:** Optionally you can change the **Waiting Time** field to any time you like. also, you can change the button text by changing the **Page's Button Text** field.
 
 **Step-6:** Now create any post with your content. and paste this shortcode `[racydev_linky_post title="Go-To" link="https://google.com"]` where you want your link.
 
@@ -53,13 +53,13 @@ Thanks,
 2. Activate the plugin from the Plugins page.
 
 **Usage**
-[Click](https://racydev.com/plugin/racydev_linky#doc) here for the documentation.
+[Click](https://racydev.com/plugins/racydev-linky#doc) here for the documentation.
 
 == Frequently Asked Questions ==
 
 = How to use Linky? =
 
-[Click](https://racydev.com/plugin/racydev_linky#doc) here for the documentation.
+[Click](https://racydev.com/plugins/racydev-linky#doc) here for the documentation.
 
 = How much I can earn from my link? =
 
@@ -84,5 +84,7 @@ Yes, you will get a ** Customize** tab where you can customize everything also a
 3. RacyDev Linky Analytics Setting Page ( Premium )
 
 == Changelog ==
+= 1.0.1 =
+* Type Fixed
 = 1.0.0 =
 * Initial plugin release

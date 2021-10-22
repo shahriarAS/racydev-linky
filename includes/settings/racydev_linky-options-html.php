@@ -40,7 +40,7 @@
 
             <div>
               <label class="text-white dark:text-gray-200" for="page_btn_title"
-                >Page's Button Title</label
+                >Page's Button Text</label
               >
               <input id="page_btn_title" value="<?php echo esc_html(get_option("racydev_linky_options")["page_btn_title"]) ?>"
               name="page_btn_title" type="text" class="block w-full px-4 py-2
@@ -62,7 +62,7 @@
               <p class="text-lg">
                 Please read this
                 <a
-                  href="https://racydev.com/plugin/racydev_linky#doc"
+                  href="https://racydev.com/plugins/racydev-linky#doc"
                   target="_blank"
                   class="text-lg text-blue-500 bold"
                   >documentation</a

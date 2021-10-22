@@ -13,7 +13,7 @@
     <li>⭐ Customized Graph & Chart.</li>
     <li>⭐ Premium support</li>
     </ul>
-    <a target="_blank" href="https://racydev.com/plugin/racydev_linky">
+    <a target="_blank" href="https://racydev.com/plugins/racydev-linky">
     <button class="mt-4 p-2 pl-5 pr-5 bg-green-500 text-gray-100 text-lg rounded-lg focus:border-4 border-green-300 hover:bg-green-400 transition">Get Pro Version</button>
     </a>
     </div>
