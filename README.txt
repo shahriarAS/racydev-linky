@@ -1,13 +1,13 @@
 === RacyDev Linky - Monetize your link ===
-Contributors: racydev
-Donate link: https://racydev.com/contact
+Contributors: shahriarprogrammer
+Donate link: https://shahriarahmed.me/contact
 Tags: download, link, adsense, ad, monetize, download manager, link generate, wp link, wp monetize link
 Requires at least: 3.0.1
-Tested up to: 5.8.1
+Tested up to: 6.1.1
 Requires PHP: 7.0
-Stable tag: 1.2.1
+Stable tag: 1.2.3
 License: GPLv2 or later
- 
+
 The most effective link monetized wp plugin. Put ad as much as you want, set a timer before the link is revealed. Generate revenue more than anytime.
 
 == Description ==
@@ -45,7 +45,7 @@ Because of high security, no one can get the original URL without waiting for th
 **Step-10**: Also you can check every analytics with the **Analytics** tab. ( Premium Feature )
 
 Thanks,
-[RacyDev Team](https://racydev.com)
+[RacyDev Team](https://shahriarahmed.me)
 
 == Installation ==
 
@@ -53,13 +53,13 @@ Thanks,
 2. Activate the plugin from the Plugins page.
 
 **Usage**
-[Click](https://racydev.com/plugins/racydev-linky#doc) here for the documentation.
+[Click](https://shahriarahmed.me/plugins/racydev-linky#doc) here for the documentation.
 
 == Frequently Asked Questions ==
 
 = How to use Linky? =
 
-[Click](https://racydev.com/plugins/racydev-linky#doc) here for the documentation.
+[Click](https://shahriarahmed.me/plugins/racydev-linky#doc) here for the documentation.
 
 = How much I can earn from my link? =
 
@@ -84,6 +84,10 @@ Yes, you will get a ** Customize** tab where you can customize everything also a
 3. RacyDev Linky Analytics Setting Page ( Premium )
 
 == Changelog ==
+= 1.2.3 =
+* Fixed Form Collison Bugs
+= 1.2.2 =
+* Fixed Bugs
 = 1.2.1 =
 * Fixed Bugs
 = 1.2 =

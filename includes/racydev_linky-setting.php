@@ -63,7 +63,7 @@ if(!class_exists("RacyDevLinky_Setting")):
             register_setting("option_group", "option_name");
 
             // Check is field correct and user has permission
-            if (isset($_POST["action"]) && current_user_can('manage_options')){
+            if (isset($_POST["action"]) && isset($_POST["option_page"]) &&( $_POST["option_page"] == "option_group") && current_user_can('manage_options')){
                 
                 // Update Options On Submit
                 update_option('racydev_linky_options', array("page_url" => sanitize_url($_POST["page_url"]), "waiting_time" => sanitize_text_field($_POST["waiting_time"]), "page_btn_title" => sanitize_text_field($_POST["page_btn_title"])));

@@ -13,7 +13,7 @@
     <li>⭐ Customized Graph & Chart.</li>
     <li>⭐ Premium support</li>
     </ul>
-    <a target="_blank" href="https://racydev.com/plugins/racydev-linky">
+    <a target="_blank" href="https://shahriarahmed.me/plugins/racydev-linky">
     <button class="racydev_linky-mt-4 racydev_linky-p-2 racydev_linky-pl-5 racydev_linky-pr-5 racydev_linky-bg-green-500 racydev_linky-text-gray-100 racydev_linky-text-lg racydev_linky-rounded-lg focus:racydev_linky-border-4 racydev_linky-border-green-300 hover:racydev_linky-bg-green-400 racydev_linky-transition">Get Pro Version</button>
     </a>
     </div>

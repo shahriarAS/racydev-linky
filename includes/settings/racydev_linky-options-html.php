@@ -62,7 +62,7 @@
               <p class="racydev_linky-text-lg">
                 Please read this
                 <a
-                  href="https://racydev.com/plugins/racydev-linky#doc"
+                  href="https://shahriarahmed.me/plugins/racydev-linky#doc"
                   target="_blank"
                   class="racydev_linky-text-lg racydev_linky-text-blue-500 bold"
                   >documentation</a
