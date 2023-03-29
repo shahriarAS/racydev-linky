@@ -7,7 +7,7 @@
  * Author: Shahriar Ahmed Shovon
  * Author URI: https://shahriarahmed.me/
  * Description: The most effective link monetized wp plugin. Put ad as much as you want, set a timer before the link is revealed. Generate revenue more than anytime.
- * Version: 1.2.3
+ * Version: 1.2.4
  * Tags: download, link, monetize, download manager, link generate, wp link, wp monetize link
  * License: GPL V2 
  * Text Domain: racydev_linky
